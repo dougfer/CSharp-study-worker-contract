@@ -1,0 +1,15 @@
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\bin\Debug\net6.0\WorkerContract.exe
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\bin\Debug\net6.0\WorkerContract.deps.json
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\bin\Debug\net6.0\WorkerContract.runtimeconfig.json
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\bin\Debug\net6.0\WorkerContract.dll
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\bin\Debug\net6.0\WorkerContract.pdb
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.csproj.AssemblyReference.cache
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.AssemblyInfoInputs.cache
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.AssemblyInfo.cs
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.csproj.CoreCompileInputs.cache
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.dll
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\refint\WorkerContract.dll
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.pdb
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\WorkerContract.genruntimeconfig.cache
+E:\Pessoal\CSharp\projetos\WorkerContract\WorkerContract\obj\Debug\net6.0\ref\WorkerContract.dll
